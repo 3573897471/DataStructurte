@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_One/SeqList.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_One/SeqList.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_One/SeqList.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_Two/LinkedList.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Two/LinkedList.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Two/LinkedList.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_Three/CircularLinkedList.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Three/CircularLinkedList.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Three/CircularLinkedList.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_Three/DoubleLinkedList.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Three/DoubleLinkedList.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Three/DoubleLinkedList.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_Three/StaticLinkedList.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Three/StaticLinkedList.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Three/StaticLinkedList.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_Four/SeqStack.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Four/SeqStack.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Four/SeqStack.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_Four/LinkedStack.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Four/LinkedStack.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Four/LinkedStack.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_Six/String.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Six/String.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Six/String.cpp"
+}
+]

@@ -2,8 +2,8 @@
 // Created by Administrator on 2021/12/5.
 //
 //循环链表
-#ifndef HOMEWORK_ANOTHERLINKEDLIST3_H
-#define HOMEWORK_ANOTHERLINKEDLIST3_H
+#ifndef HOMEWORK_CIRCULARLINKEDLIST_H
+#define HOMEWORK_CIRCULARLINKEDLIST_H
 #include<iostream>
 using namespace std;
 
