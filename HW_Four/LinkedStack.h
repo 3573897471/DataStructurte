@@ -1,0 +1,8 @@
+//
+// Created by 黎炜堂 on 2021/12/10.
+//
+
+#ifndef HOMEWORK_LINKEDSTACK_H
+#define HOMEWORK_LINKEDSTACK_H
+
+#endif //HOMEWORK_LINKEDSTACK_H

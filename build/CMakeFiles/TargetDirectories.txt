@@ -1,0 +1,3 @@
+/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build/CMakeFiles/HomeWork.dir
+/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build/CMakeFiles/edit_cache.dir
+/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build/CMakeFiles/rebuild_cache.dir
