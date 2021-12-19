@@ -1,6 +1,5 @@
 #include "Bag.h"
 
-#include "Bag.h"
 //构造函数
 template<class T>
 Bag<T>::Bag(int Size) {
@@ -57,12 +56,12 @@ void Bag<T>::MakeEmpty() {
 //判空操作
 template<class T>
 bool Bag<T>::Empty() {
-    return top < 0 ? true : false;
+    return top < 0;
 }
 //判满操作
 template<class T>
 bool Bag<T>::Full() {
-    return top >= maxSize ? true : false;
+    return top >= maxSize;
 }
 //长度操作
 template<class T>
