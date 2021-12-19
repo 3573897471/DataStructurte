@@ -225,6 +225,30 @@ HW_Six/String.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/HW_Six/String.cpp.s
 .PHONY : HW_Six/String.cpp.s
 
+HW_TEN/EdgeList.o: HW_TEN/EdgeList.cpp.o
+.PHONY : HW_TEN/EdgeList.o
+
+# target to build an object file
+HW_TEN/EdgeList.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.o
+.PHONY : HW_TEN/EdgeList.cpp.o
+
+HW_TEN/EdgeList.i: HW_TEN/EdgeList.cpp.i
+.PHONY : HW_TEN/EdgeList.i
+
+# target to preprocess a source file
+HW_TEN/EdgeList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.i
+.PHONY : HW_TEN/EdgeList.cpp.i
+
+HW_TEN/EdgeList.s: HW_TEN/EdgeList.cpp.s
+.PHONY : HW_TEN/EdgeList.s
+
+# target to generate assembly for a file
+HW_TEN/EdgeList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.s
+.PHONY : HW_TEN/EdgeList.cpp.s
+
 HW_Three/CircularLinkedList.o: HW_Three/CircularLinkedList.cpp.o
 .PHONY : HW_Three/CircularLinkedList.o
 
@@ -342,6 +366,9 @@ help:
 	@echo "... HW_Six/String.o"
 	@echo "... HW_Six/String.i"
 	@echo "... HW_Six/String.s"
+	@echo "... HW_TEN/EdgeList.o"
+	@echo "... HW_TEN/EdgeList.i"
+	@echo "... HW_TEN/EdgeList.s"
 	@echo "... HW_Three/CircularLinkedList.o"
 	@echo "... HW_Three/CircularLinkedList.i"
 	@echo "... HW_Three/CircularLinkedList.s"

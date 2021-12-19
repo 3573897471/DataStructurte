@@ -38,5 +38,10 @@
   "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
   "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_Six/String.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Six/String.cpp",
   "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_Six/String.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_TEN/EdgeList.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_TEN/EdgeList.cpp"
 }
 ]

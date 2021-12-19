@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/HomeWork.dir/HW_One/SeqList.cpp.o.d"
   "CMakeFiles/HomeWork.dir/HW_Six/String.cpp.o"
   "CMakeFiles/HomeWork.dir/HW_Six/String.cpp.o.d"
+  "CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.o"
+  "CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.o.d"
   "CMakeFiles/HomeWork.dir/HW_Three/CircularLinkedList.cpp.o"
   "CMakeFiles/HomeWork.dir/HW_Three/CircularLinkedList.cpp.o.d"
   "CMakeFiles/HomeWork.dir/HW_Three/DoubleLinkedList.cpp.o"

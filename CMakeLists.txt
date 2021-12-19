@@ -11,5 +11,5 @@ add_executable(HomeWork
         HW_Three/StaticLinkedList.cpp HW_Three/StaticLinkedList.h
         HW_Four/SeqStack.cpp HW_Four/SeqStack.h HW_Four/LinkedStack.cpp HW_Four/LinkedStack.h
         HW_Six/String.cpp HW_Six/String.h
-        HW_TEN/EdgeList.cpp HW_TEN/EdgeList.cpp HW_TEN/Graph.cpp)
+        HW_TEN/EdgeList.cpp HW_TEN/EdgeList.cpp HW_TEN/Graph.h)
 
