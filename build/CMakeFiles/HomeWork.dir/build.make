@@ -195,6 +195,62 @@ CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_TEN/EdgeList.cpp -o CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.s
 
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o: CMakeFiles/HomeWork.dir/flags.make
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o: ../FinalWork/Bag2/Bag.cpp
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o: CMakeFiles/HomeWork.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o -MF CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o.d -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/Bag.cpp
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/Bag.cpp > CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.i
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/Bag.cpp -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.s
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o: CMakeFiles/HomeWork.dir/flags.make
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o: ../FinalWork/Bag2/BagStack.cpp
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o: CMakeFiles/HomeWork.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o -MF CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o.d -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/BagStack.cpp
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/BagStack.cpp > CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.i
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/BagStack.cpp -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.s
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o: CMakeFiles/HomeWork.dir/flags.make
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o: ../FinalWork/Bag2/BagQueue.cpp
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o: CMakeFiles/HomeWork.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o -MF CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o.d -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/BagQueue.cpp
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/BagQueue.cpp > CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.i
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/BagQueue.cpp -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.s
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o: CMakeFiles/HomeWork.dir/flags.make
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o: ../FinalWork/Bag2/PriorityQueue.cpp
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o: CMakeFiles/HomeWork.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o -MF CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o.d -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/PriorityQueue.cpp
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/PriorityQueue.cpp > CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.i
+
+CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/PriorityQueue.cpp -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.s
+
 # Object files for target HomeWork
 HomeWork_OBJECTS = \
 "CMakeFiles/HomeWork.dir/HW_One/SeqList.cpp.o" \
@@ -205,7 +261,11 @@ HomeWork_OBJECTS = \
 "CMakeFiles/HomeWork.dir/HW_Four/SeqStack.cpp.o" \
 "CMakeFiles/HomeWork.dir/HW_Four/LinkedStack.cpp.o" \
 "CMakeFiles/HomeWork.dir/HW_Six/String.cpp.o" \
-"CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.o"
+"CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.o" \
+"CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o" \
+"CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o" \
+"CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o" \
+"CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o"
 
 # External object files for target HomeWork
 HomeWork_EXTERNAL_OBJECTS =
@@ -219,9 +279,13 @@ HomeWork: CMakeFiles/HomeWork.dir/HW_Four/SeqStack.cpp.o
 HomeWork: CMakeFiles/HomeWork.dir/HW_Four/LinkedStack.cpp.o
 HomeWork: CMakeFiles/HomeWork.dir/HW_Six/String.cpp.o
 HomeWork: CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.o
+HomeWork: CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o
+HomeWork: CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o
+HomeWork: CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o
+HomeWork: CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o
 HomeWork: CMakeFiles/HomeWork.dir/build.make
 HomeWork: CMakeFiles/HomeWork.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable HomeWork"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable HomeWork"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/HomeWork.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

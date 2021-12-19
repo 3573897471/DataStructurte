@@ -129,6 +129,102 @@ HomeWork/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/build
 .PHONY : HomeWork/fast
 
+FinalWork/Bag2/Bag.o: FinalWork/Bag2/Bag.cpp.o
+.PHONY : FinalWork/Bag2/Bag.o
+
+# target to build an object file
+FinalWork/Bag2/Bag.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o
+.PHONY : FinalWork/Bag2/Bag.cpp.o
+
+FinalWork/Bag2/Bag.i: FinalWork/Bag2/Bag.cpp.i
+.PHONY : FinalWork/Bag2/Bag.i
+
+# target to preprocess a source file
+FinalWork/Bag2/Bag.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.i
+.PHONY : FinalWork/Bag2/Bag.cpp.i
+
+FinalWork/Bag2/Bag.s: FinalWork/Bag2/Bag.cpp.s
+.PHONY : FinalWork/Bag2/Bag.s
+
+# target to generate assembly for a file
+FinalWork/Bag2/Bag.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.s
+.PHONY : FinalWork/Bag2/Bag.cpp.s
+
+FinalWork/Bag2/BagQueue.o: FinalWork/Bag2/BagQueue.cpp.o
+.PHONY : FinalWork/Bag2/BagQueue.o
+
+# target to build an object file
+FinalWork/Bag2/BagQueue.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o
+.PHONY : FinalWork/Bag2/BagQueue.cpp.o
+
+FinalWork/Bag2/BagQueue.i: FinalWork/Bag2/BagQueue.cpp.i
+.PHONY : FinalWork/Bag2/BagQueue.i
+
+# target to preprocess a source file
+FinalWork/Bag2/BagQueue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.i
+.PHONY : FinalWork/Bag2/BagQueue.cpp.i
+
+FinalWork/Bag2/BagQueue.s: FinalWork/Bag2/BagQueue.cpp.s
+.PHONY : FinalWork/Bag2/BagQueue.s
+
+# target to generate assembly for a file
+FinalWork/Bag2/BagQueue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.s
+.PHONY : FinalWork/Bag2/BagQueue.cpp.s
+
+FinalWork/Bag2/BagStack.o: FinalWork/Bag2/BagStack.cpp.o
+.PHONY : FinalWork/Bag2/BagStack.o
+
+# target to build an object file
+FinalWork/Bag2/BagStack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o
+.PHONY : FinalWork/Bag2/BagStack.cpp.o
+
+FinalWork/Bag2/BagStack.i: FinalWork/Bag2/BagStack.cpp.i
+.PHONY : FinalWork/Bag2/BagStack.i
+
+# target to preprocess a source file
+FinalWork/Bag2/BagStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.i
+.PHONY : FinalWork/Bag2/BagStack.cpp.i
+
+FinalWork/Bag2/BagStack.s: FinalWork/Bag2/BagStack.cpp.s
+.PHONY : FinalWork/Bag2/BagStack.s
+
+# target to generate assembly for a file
+FinalWork/Bag2/BagStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.s
+.PHONY : FinalWork/Bag2/BagStack.cpp.s
+
+FinalWork/Bag2/PriorityQueue.o: FinalWork/Bag2/PriorityQueue.cpp.o
+.PHONY : FinalWork/Bag2/PriorityQueue.o
+
+# target to build an object file
+FinalWork/Bag2/PriorityQueue.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o
+.PHONY : FinalWork/Bag2/PriorityQueue.cpp.o
+
+FinalWork/Bag2/PriorityQueue.i: FinalWork/Bag2/PriorityQueue.cpp.i
+.PHONY : FinalWork/Bag2/PriorityQueue.i
+
+# target to preprocess a source file
+FinalWork/Bag2/PriorityQueue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.i
+.PHONY : FinalWork/Bag2/PriorityQueue.cpp.i
+
+FinalWork/Bag2/PriorityQueue.s: FinalWork/Bag2/PriorityQueue.cpp.s
+.PHONY : FinalWork/Bag2/PriorityQueue.s
+
+# target to generate assembly for a file
+FinalWork/Bag2/PriorityQueue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/HomeWork.dir/build.make CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.s
+.PHONY : FinalWork/Bag2/PriorityQueue.cpp.s
+
 HW_Four/LinkedStack.o: HW_Four/LinkedStack.cpp.o
 .PHONY : HW_Four/LinkedStack.o
 
@@ -354,6 +450,18 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... HomeWork"
+	@echo "... FinalWork/Bag2/Bag.o"
+	@echo "... FinalWork/Bag2/Bag.i"
+	@echo "... FinalWork/Bag2/Bag.s"
+	@echo "... FinalWork/Bag2/BagQueue.o"
+	@echo "... FinalWork/Bag2/BagQueue.i"
+	@echo "... FinalWork/Bag2/BagQueue.s"
+	@echo "... FinalWork/Bag2/BagStack.o"
+	@echo "... FinalWork/Bag2/BagStack.i"
+	@echo "... FinalWork/Bag2/BagStack.s"
+	@echo "... FinalWork/Bag2/PriorityQueue.o"
+	@echo "... FinalWork/Bag2/PriorityQueue.i"
+	@echo "... FinalWork/Bag2/PriorityQueue.s"
 	@echo "... HW_Four/LinkedStack.o"
 	@echo "... HW_Four/LinkedStack.i"
 	@echo "... HW_Four/LinkedStack.s"

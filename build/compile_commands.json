@@ -43,5 +43,25 @@
   "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
   "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/HW_TEN/EdgeList.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_TEN/EdgeList.cpp",
   "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/HW_TEN/EdgeList.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/Bag.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/Bag.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/BagStack.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/BagStack.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/BagQueue.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/BagQueue.cpp"
+},
+{
+  "directory": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++2a -o CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o -c /Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/PriorityQueue.cpp",
+  "file": "/Users/liweitang/CLionProjects/DataStructureHomework/HomeWork3/FinalWork/Bag2/PriorityQueue.cpp"
 }
 ]

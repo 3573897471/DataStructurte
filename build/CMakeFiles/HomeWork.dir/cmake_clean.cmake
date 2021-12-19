@@ -1,4 +1,12 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o"
+  "CMakeFiles/HomeWork.dir/FinalWork/Bag2/Bag.cpp.o.d"
+  "CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o"
+  "CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagQueue.cpp.o.d"
+  "CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o"
+  "CMakeFiles/HomeWork.dir/FinalWork/Bag2/BagStack.cpp.o.d"
+  "CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o"
+  "CMakeFiles/HomeWork.dir/FinalWork/Bag2/PriorityQueue.cpp.o.d"
   "CMakeFiles/HomeWork.dir/HW_Four/LinkedStack.cpp.o"
   "CMakeFiles/HomeWork.dir/HW_Four/LinkedStack.cpp.o.d"
   "CMakeFiles/HomeWork.dir/HW_Four/SeqStack.cpp.o"

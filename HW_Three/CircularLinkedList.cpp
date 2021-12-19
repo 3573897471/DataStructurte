@@ -128,6 +128,7 @@ bool CircularLinkedList<T>::InsertCircularLinkedNode(int index, const T& val) {
             if (index == this->CircularLinkedListSize()) node->next = head;
         }
     }
+    return true;
 }
 //删除第i个节点
 template<class T>

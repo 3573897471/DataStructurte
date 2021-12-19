@@ -14,5 +14,6 @@
         "string_view": "cpp",
         "type_traits": "cpp",
         "vector": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
 }
