@@ -15,5 +15,5 @@ add_executable(HomeWork
         FinalWork/Bag2/Bag.h FinalWork/Bag2/Bag.cpp
         FinalWork/Bag2/BagStack.h FinalWork/Bag2/BagStack.cpp
         FinalWork/Bag2/BagQueue.cpp FinalWork/Bag2/BagQueue.h
-        FinalWork/Bag2/PriorityQueue.cpp FinalWork/Bag2/PriorityQueue.h FinalWork/StudentSystem/copy.cpp FinalWork/StudentSystem/StudentSystem.cpp FinalWork/StudentSystem/StudentSystem.h FinalWork/StudentSystem/test.cpp)
+        FinalWork/Bag2/PriorityQueue.cpp FinalWork/Bag2/PriorityQueue.h FinalWork/StudentSystem/copy.cpp FinalWork/StudentSystem/StudentSystem.cpp FinalWork/StudentSystem/StudentSystem.h FinalWork/StudentSystem/test.cpp HW_Night/AVLTree.cpp HW_Night/AVLTree.h)
 
