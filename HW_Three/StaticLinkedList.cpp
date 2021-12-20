@@ -134,7 +134,7 @@ void TestStaticLinkedList() {
     return;
 }
 
-int main() {
-    TestStaticLinkedList();
-    return 0;
-}
+//int main() {
+//    TestStaticLinkedList();
+//    return 0;
+//}
