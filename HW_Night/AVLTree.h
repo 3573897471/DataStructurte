@@ -45,6 +45,4 @@ private:
     //求某个节点的高度
     int Height(AVLNode<T>* ptr) const;
 };
-
-
 #endif //HOMEWORK_AVLTREE_H
