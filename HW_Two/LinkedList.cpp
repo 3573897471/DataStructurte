@@ -117,7 +117,7 @@ void SingleLinkedList<T>::show() {
 
 
 //测试函数
-void test() {
+void TestLinkedList() {
     SingleLinkedList<int> s1;
     for (int i = 0; i < 10; i++) {
         s1.addToTail(i);
@@ -139,6 +139,6 @@ void test() {
 }
 
 //int main() {
-//   test();
-//   return 0;
+//    TestLinkedList();
+//    return 0;
 //}
