@@ -16,14 +16,15 @@
 1、HW_One：顺序表  
 2、HW_Two：单链表  
 3、HW_Three：循环链表、双端链表、静态链表  
-4、HW_Four：  
+4、HW_Four：栈（数组、链表）
 5、HW_Five：  
-6、HW_Six：  
+6、HW_Six：字符串（字符匹配函数缺失）  
 7、HW_Seven：  
 8、HW_Eight：  
 9、HW_Night：AVL树  
 10、HW_Ten：图（邻接矩阵、邻接表）  
 11、FinalWork：学生管理系统（单链表）、包  
 12、Heap：最小堆  
+13、ChapterSixSet&&Dictionary：集合与字典
 
 
