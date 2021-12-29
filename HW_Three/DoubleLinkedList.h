@@ -13,7 +13,9 @@ struct DoubleLinkedNode {
     T data;
     DoubleLinkedNode<T>* pre;
     DoubleLinkedNode<T>* next;
-    DoubleLinkedNode<T>(T val = 0, DoubleLinkedNode<T>* node1 = nullptr, DoubleLinkedNode<T>* node2 = nullptr)
+    DoubleLinkedNode(T val = 0,
+                        DoubleLinkedNode<T>* node1 = nullptr,
+                        DoubleLinkedNode<T>* node2 = nullptr)
             : data(val), pre(node1), next(node2) {}
 };
 

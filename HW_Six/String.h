@@ -21,7 +21,7 @@ public:
     //返回String的实际长度
     int Length() const;
     //pos位置开始连续读取len个字符组成子串并返回
-    String& operator() (int pos, int len);
+    String operator() (int pos, int len);
     //判断串是否相等
     int operator== (String& ob) const;
     //判定串是否不相等
@@ -33,7 +33,7 @@ public:
     //将串链接在当前串后面
     String& operator+= (String& ob);
     //取第i个字符
-    char& operator[] (int i);
+    char operator[] (int i);
     //在当前串中寻找子串
     int Find(String& ob) const;
 };

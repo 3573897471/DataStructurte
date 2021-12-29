@@ -5,6 +5,11 @@
 #include "BagQueue.h"
 
 template<class T>
+BagQueue<T>::BagQueue(int Size) : Bag<T>(Size){}
+template<class T>
+BagQueue<T>::~BagQueue() {}
+
+template<class T>
 BagQueue<T>::BagQueue(int Size) :Bag<T>(Size){}
 
 template<class T>

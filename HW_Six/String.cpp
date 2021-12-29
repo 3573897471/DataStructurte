@@ -44,7 +44,7 @@ int String::Length() const {
     return CurrentLength;
 }
 //pos位置开始连续读取len个字符组成子串并返回
-String& String::operator() (int pos, int len) {
+String String::operator() (int pos, int len) {
     String temp;
     if (pos < 0 || pos + len > CurrentLength || len < 0) {
         temp.CurrentLength = 0;
@@ -86,6 +86,7 @@ String& String::operator= (String& ob) {
     for (int i = 0;i < CurrentLength;i++) {
         ch[i] = ob.ch[i];
     }
+    return *this;
 }
 //将串链接在当前串后面
 String& String::operator+= (String& ob) {
@@ -120,7 +121,7 @@ String& String::operator+= (String& ob) {
     return *this;
 }
 //取第i个字符
-char& String::operator[] (int i) {
+char String::operator[] (int i) {
     char c = ' ';
     if (i < 0 || i >CurrentLength) return c;
     else c = ch[i];
@@ -128,7 +129,7 @@ char& String::operator[] (int i) {
 }
 //在当前串中寻找子串
 int String::Find(String& ob) const {
-    
+    return 0;
 }
 
 void TestString() {

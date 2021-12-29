@@ -4,9 +4,7 @@ template<class T>
 BagStack<T>::BagStack(int Size): Bag<T>(Size) {}
 
 template<class T>
-BagStack<T>::~BagStack(){
-    ~Bag<T>();
-}
+BagStack<T>::~BagStack(){}
 template<class T>
 bool BagStack<T>::Remove(T& val) {
     if (this->Empty()) return false;

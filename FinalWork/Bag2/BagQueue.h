@@ -1,11 +1,10 @@
 //
-// Created by Levi on 2021/12/19.
+// Created by 黎炜堂 on 2021/12/19.
 //
 
 #ifndef HOMEWORK_BAGQUEUE_H
 #define HOMEWORK_BAGQUEUE_H
 #include "Bag.h"
-
 template<class T>
 class BagQueue :public Bag<T> {
 public:
